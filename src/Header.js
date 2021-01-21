@@ -7,7 +7,7 @@ function Header() {
       <h3>Shopme</h3>
       <div className="header__search">
         <input type="text" className="header__searchInput"></input>
-        <SearchIcon/>
+        <SearchIcon className="searchicon"/>
       </div>
       <div className="header__nav">
         <div className="header__option">
