@@ -1,0 +1,23 @@
+.home {
+    
+}
+
+.home_container {
+    justify-content: center;
+    align-items: center;
+
+}
+.home__row{
+    display: flex;
+    z-index: 1;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.home_image {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    background-image: linear-gradient(blue,#9999ff);
+    
+}
